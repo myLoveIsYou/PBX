@@ -8,6 +8,7 @@
 
 #import "UIButton+buttonWithSelect.h"
 #import "AFNetworking.h"
+@class AFHTTPSessionManager;
 @implementation UIButton (buttonWithSelect)
 -(void)buttonSelect
 {
